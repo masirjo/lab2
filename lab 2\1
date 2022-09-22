@@ -1,0 +1,4 @@
+words = ["dog", "cat","lion","monkey","shark")
+wordlens = list (map(len, words))
+print (words)
+print (min(wordlens) + max(wordlens))
